@@ -7,7 +7,7 @@
 
 mirrors:
 
-[yougame.biz](https://yougame.biz/threads/1337/) / [crystalpvp.ru](https://crystalpvp.ru/nullcore/)
+[yougame.biz](https://yougame.biz/threads/277615/) / [crystalpvp.ru](https://crystalpvp.ru/nullcore/)
 
 [plutosolutions telegram](https://t.me/plutosolutions)
 
